@@ -40,5 +40,3 @@ const ProductPage: React.FC<ProductPageProps> = async ({ params }) => {
 };
 
 export default ProductPage;
-// 3431971e-edc5-4898-91fc-a46a463fce78
-// a0868237-7bb5-4188-9f74-1a2754fd4f23
